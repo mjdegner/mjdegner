@@ -1,4 +1,4 @@
-![Profile Banner](./banner.png)
+![Profile Banner](./banner.jpeg)
 
 # Hi there, I'm Michael 👋
 
